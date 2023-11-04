@@ -2,5 +2,5 @@
 
 Lớp: SE357.O12.PMCL
 Lớp: SE357.O12.PMCL<br/>
-Lâm Gia Bảo - 21520607 - SakagawaKyohei, lamgiabao1039<br/> <!--Do sử dụng nhầm acc>
+Lâm Gia Bảo - 21520607 - SakagawaKyohei, lamgiabao1039 <!--Do sử dụng nhầm acc--> <br/>
 Nguyễn Quốc Thái Dương - 21520758 - Sunny020303
